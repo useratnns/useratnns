@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Muhammad Usman
 
-### 🚀 AI Engineer | Full-Stack Developer | Google Student Ambassador 2026 | President – SCALE | Research Presenter
+### <p align="center">
+
+![](https://img.shields.io/badge/AI_Engineer-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/Full--Stack_Developer-00C853?style=for-the-badge)
+![](https://img.shields.io/badge/Flutter_Developer-42A5F5?style=for-the-badge)
+![](https://img.shields.io/badge/Google_Student_Ambassador-4285F4?style=for-the-badge&logo=google)
+![](https://img.shields.io/badge/President-SCALE-FF9800?style=for-the-badge)
+![](https://img.shields.io/badge/Research_Presenter-ICAST_2025-E91E63?style=for-the-badge)
+
+</p>
 
 🎓 **BS Computer Science Student** at **Baba Guru Nanak University, Pakistan**
 
@@ -21,6 +30,22 @@ Currently, I am building AI-powered software, scalable web applications, and mod
 - 🥇 1st Position – Digital Logic Design (ICAST 2024)
 - 🥇 Chess Gold Medalist (2024 & 2025)
 - 🥈 Silver Medal – Media Coverage (Sports Gala 2025)
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" height="90"/>
+
+</p>
 
 ### 🌟 Developer Programs & Platform Achievements
 
@@ -47,7 +72,7 @@ Currently, I am building AI-powered software, scalable web applications, and mod
 
 # 💻 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,33 +82,57 @@ Currently, I am building AI-powered software, scalable web applications, and mod
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frontend
+### 🌐 Frontend
 
-React • Next.js • HTML5 • CSS3 • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+### ⚙️ Backend
 
-Node.js • Express.js • Laravel • FastAPI • Flask
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Mobile
+### 📱 Mobile
 
-Flutter • Firebase
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-### Databases
+### 🗄 Databases
 
-MySQL • PostgreSQL • MongoDB • Prisma
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
 
-### AI / ML
+### 🤖 AI / ML
 
-TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • Prompt Engineering • Google Gemini
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-Azure • Google Cloud • AWS • Docker • Vercel
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-### Tools
+### 🛠 Tools
 
-Git • GitHub • VS Code • Postman • Figma • Linux
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -99,39 +148,44 @@ Git • GitHub • VS Code • Postman • Figma • Linux
 - 📱 Flutter E-Commerce App
 - 👁 Face Recognition using FaceNet
 - 🧠 AI Seq2Seq Chatbot
-
+  
 🔗 **Repositories:** https://github.com/useratnns
 
 ---
 
 # 📜 Featured Certifications
 
-- Google UX Design Professional Certificate
-- Google Cybersecurity Professional Certificate
-- Google Project Management Professional Certificate
-- Google Prompting Essentials
-- Gemini Certified Student
-- Anthropic – Model Context Protocol (MCP)
-- Anthropic – Claude API
-- IBM Python 101
-- IBM Prompt Engineering
-- Cisco Network Technician
+- 🏅 Google UX Design Professional Certificate
+- 🏅 Google Cybersecurity Professional Certificate
+- 🏅 Google Project Management Professional Certificate
+- 🏅 Google Prompting Essentials
+- 🏅 Gemini Certified Student
+- 🏅 IBM Python 101
+- 🏅 IBM Prompt Engineering
+- 🏅 Cisco Network Technician
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/musman100official/details/certifications/">
+
+<img src="https://img.shields.io/badge/See_All_Certifications-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://usman.corecslab.me)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musman100official/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/useratnns)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanboota.dev@gmail.com)
+ <a href="https://github.com/useratnns"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>               <a href="https://www.linkedin.com/in/musman100official/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>                                                                  <a href="mailto:usmanboota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                    <a href="https://usman.corecslab.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>                           <a href="https://instagram.com/callme_usman._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=useratnns&show_icons=true&theme=github_dark)
 
