@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://github.com/useratnns.png" width="180" alt="Muhammad Usman"/>
+  <img src="https://github.com/useratnns.png" width="180", />
 </p>
-# 👋 Hi, I'm Muhammad Usman
+
+<h1 align="center">👋 Hi, I'm Muhammad Usman</h1>
 
 ### <p align="center">
 
 ![](https://img.shields.io/badge/Full--Stack_AI_Engineer-0A66C2?style=for-the-badge)
 ![](https://img.shields.io/badge/Google_Student_Ambassador_2026-4285F4?style=for-the-badge&logo=google)
-![](https://img.shields.io/badge/President-SCALE-FF9800?style=for-the-badge)
-![](https://img.shields.io/badge/Research_Presenter-ICAST_2025-E91E63?style=for-the-badge)
+![](https://img.shields.io/badge/President-SCALE-FF9800?style=for-the-badge)    ![](https://img.shields.io/badge/Research_Presenter-ICAST_2025-E91E63?style=for-the-badge)
 ![](https://img.shields.io/badge/AI_•_Cloud_•_Web_•_Mobile-00C853?style=for-the-badge)
 
 </p>
