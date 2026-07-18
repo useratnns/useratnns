@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Usman
 
 <p align="center">
-  <img src="assests/profile.png" alt="Muhammad Usman" width="280" />
+<img src="https://github.com/useratnns.png" width="180" alt="Muhammad Usman"/>
 </p>
 
 ### <p align="center">
