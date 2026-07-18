@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile.png" width="180" alt="Muhammad Usman">
-</p>
-
 <h1 align="center">👋 Hi, I'm Muhammad Usman</h1>
 
 ### <p align="center">
