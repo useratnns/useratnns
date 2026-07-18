@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Muhammad Usman
-
 <p align="center">
 <img src="https://github.com/useratnns.png" width="180" alt="Muhammad Usman"/>
 </p>
+# 👋 Hi, I'm Muhammad Usman
 
 ### <p align="center">
 
