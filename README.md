@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/useratnns.png" width="180", />
+  <img src="./profile.png" width="180" alt="Muhammad Usman">
 </p>
 
 <h1 align="center">👋 Hi, I'm Muhammad Usman</h1>
