@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Muhammad Usman
 
+<p align="center">
+  <img src="assests/profile.png" alt="Muhammad Usman" width="280" />
+</p>
+
 ### <p align="center">
 
 ![](https://img.shields.io/badge/Full--Stack_AI_Engineer-0A66C2?style=for-the-badge)
@@ -16,7 +20,7 @@
 
 I am passionate about **Artificial Intelligence, Full-Stack Development, Flutter, Machine Learning, Cloud Computing, Cybersecurity, and Open Source**.
 
-Currently, I am building AI-powered software, scalable web applications, and modern mobile solutions while actively contributing to developer communities through leadership, mentorship, research, and technical events.
+Currently, I am building AI-powered software, scalable web applications, and modern mobile solutions while actively contributing to developer communities through leadership, mentorship, research, and open-source work.
 
 ---
 
@@ -181,7 +185,8 @@ Currently, I am building AI-powered software, scalable web applications, and mod
 
 <p align="center">
 
- <a href="https://github.com/useratnns"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>               <a href="https://www.linkedin.com/in/musman100official/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>                                                                  <a href="mailto:usmanboota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                    <a href="https://usman.corecslab.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>                           <a href="https://instagram.com/callme_usman._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+ <a href="https://github.com/useratnns"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>               <a href="https://www.linkedin.com/in/musman100official"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+
 </p>
 
 ---
